@@ -1,0 +1,100 @@
+2．
+　・Pack information into your naemes
+　・It's better to be clear and precise than to be cute.
+
+　「specific words」「Avoid generic names」「concrete names」
+　「important details」「longer names for larger scopes」
+　「use capitalization, underscores, and so on in a meaningful way」
+
+
+
+3．Names that can't be misconstrued
+　・What other meanings could someone interpret from this name ?
+
+
+
+4．Aesthetics
+　・Consistent style is more important than the right style.
+
+　「same silhouette」「columns」「meaningful order」
+　「logical paragraphs with empty」
+
+
+
+5．Knowing what to comment
+　・the purpose is to help the reader know as much as the writer did
+　・do not comment on fact that can be derivered quickly from the code itself
+
+
+
+6．Making comments precise and compact
+　・comments should have a high information-to-space ratio
+
+　「Avoid it or this」「precision」「input/output examples」
+ 　「inline comment (arg)」「use meaningful words」
+
+
+
+7．Simplifying Loops and Logic
+　・control flow as natural as possible
+　・minmize time to be understood in stead of # lines
+
+　「more liner code」「Guuard statements」
+
+
+
+8．Breaking down giant expressions
+　・into more digestible pieces
+　・clever code confuse to read
+
+　「explaining variables」「main concept」「De Morgan's law」
+　「negating the problem」「opposite of goal」
+
+
+
+9．Variables and Readability
+　・make your variable visible by as few lines of code as possible
+　
+　「Eliminate variables」
+　「Reduce the scope of each variable」
+　「Prefer write-once variables」
+
+
+
+10．Extracting unrelated subproblems
+　・separate the generic code from the project specific code
+　・keep all of the operations in a single method at the same level of abstraction
+　・rapper
+
+
+
+11．One task at a time
+　・list all of the tasks it's doing and separate by func(class)
+
+
+
+12．Turning thoughts into code
+　・saying things in plain English
+　・rubber ducking
+　・get a program into words
+
+
+
+13．Writting less code
+　・the most readable code is no code at all
+　・Adventure, excitementーa Jedi craves not these things
+
+
+
+14．Testing and Readability
+　・Test code should be readable for comfortable changing or adding test
+　・hide less important details from the user
+　・simplest set of inputs that completely exercise the code
+　・prefer clean and simple test value
+　・each test inputoutput canbe described in one line
+
+
+
+
+
+
